@@ -1,5 +1,4 @@
-
-# Project Title:
+# Project Title: 
 Working with Text in Python: "Ethics Built into the Ideals and Objectives of the United Nations".
 
 # Project Overview
